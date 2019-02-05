@@ -5,4 +5,3 @@ def greeting(name)
 
 end
 
-greeting(name)
